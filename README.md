@@ -2,7 +2,7 @@
 
 DSA project template for the Bootcamp on Nov 1st, 2025. 
 
-Provide a [link to your dataset](https://google.com) 
+Provide a [Higher Education Wages](https://www.kaggle.com/datasets/thedevastator/uncovering-wage-disparities-in-pennsylvania-s-hi/code) 
 
 Briefly _explain_ your **hypothesis**.
 
