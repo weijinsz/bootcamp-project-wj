@@ -4,7 +4,8 @@ DSA project template for the Bootcamp on Nov 1st, 2025.
 
 Provide a [Higher Education Wages](https://www.kaggle.com/datasets/thedevastator/uncovering-wage-disparities-in-pennsylvania-s-hi/code) 
 
-Briefly _explain_ your **hypothesis**.
+**Hypothesis:**
+The salary difference is statistically diferent for faculty at level 1, level 2, and other universities/colleges.
 
 ## Sub headings
 
